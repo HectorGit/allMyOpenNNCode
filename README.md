@@ -1,5 +1,17 @@
-# allMyOpenNNCode
-I was able to create a visual studio project that uses openNN.
+# SOURCE CODE FOR THE VISUAL STUDIO PROJET !
+
+There are great user manuals inside the 'documentation'
+in the opennn.net website.
+
+I specifically used: 
+http://www.opennn.net/documentation/templates.html
+
+I followed some of those instructions to build this example.
+OpenNN itself comes with some examples, that I was able to 
+build as well, by copying the main code into a visual studio
+project, and then following the procedure described below.
+
+# STEPS TO ADD OPENNN TO YOUR VISUAL STUDIO PROJECT !
 
 AFTER BUILDING THE OPENN USING CMAKE-GUI :
 You will have additional directories.
